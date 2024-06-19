@@ -1,3 +1,3 @@
-export function test() {
-    console.log('测试文件');
-}
+import browser from './tools/browser'
+
+export { browser }
